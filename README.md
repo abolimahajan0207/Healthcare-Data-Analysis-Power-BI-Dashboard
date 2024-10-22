@@ -5,3 +5,6 @@ The project culminates in the creation of an interactive dashboard, showcasing s
 
 ## Goal of the Project 
 Goal of the project is to collect patient data, maintain accurate records, visualize data effectively, and enhance patient care.
+
+## Process of the Project 
+The process involves collecting patient data from hospital records and cleaning it to address inconsistencies such as missing values and duplicate entries. After processing the data, perform analyses to derive insights and create visualizations like charts. Finally, design an interactive dashboard to present the findings, making it easy for healthcare professionals to access and interpret the data.
